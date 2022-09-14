@@ -56,7 +56,7 @@ export default function Body() {
                 <li className='num1'>21</li>
               </div>
               <div className='next-design'>
-               <a href=''>Next </a>
+               <a href='jjj'>Next </a>
                <BiChevronRight className='icon'/>
               </div>
             </div>
