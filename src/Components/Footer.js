@@ -9,7 +9,7 @@ function Footer() {
        <div className='Footer-content'>
             <div className='logo'>
                 <div className='image1'>
-                    <img className='ig1' src={vv} />
+                    <img className='ig1' alt='dog' src={vv} />
                 </div>
                 <h2>dukaan<h4 className='re'>&reg;</h4></h2>
             </div>
@@ -45,7 +45,7 @@ function Footer() {
             </div>
             <div className='flag-content'>
                 <p>Made in</p>
-                <img src={flag}></img>
+                <img src={flag} alt="dog1"></img>
             </div>
        </div>
       
