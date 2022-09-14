@@ -28,7 +28,7 @@ font-family: 'Poppins', sans-serif;
 .body-content{
     width: 736px;
     margin:auto ;
-    
+    position: relative;
 }
 .p2{
     margin-top: 48px ;
@@ -127,7 +127,7 @@ input[type=text] {
     color:#146EB4; 
 }
 .num1{
-    margin-left: 15px;
+    margin-left: 24px;
 }
 .numbers{
     display: block;
@@ -146,6 +146,8 @@ input[type=text] {
 }
 .next-design{
     display: flex;
+    position: absolute;
+    right: 0px;
 }
 .icon{
    
