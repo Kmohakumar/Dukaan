@@ -9,7 +9,7 @@ function Header() {
       <nav>
         <div className='logo'>
           <div className='header-image'>
-          <img className='ig1' src={vv} />
+          <img className='ig1' alt='dog3' src={vv} />
           </div>
           <h2>dukaan<h4 className='re'>&reg;</h4></h2>
         </div>
