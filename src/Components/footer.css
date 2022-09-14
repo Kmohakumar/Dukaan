@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.footer-background{
+    background-color: black;
+    margin-top: 48px;
+    height: 283px;
+}
+.Footer-content{
+    width: 1120px;
+    margin: auto;
+   font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 64px;   
+}
+.image1{
+    background-color: grey;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    position: relative;
+}
+.ig{
+    position: absolute;
+    transform: translate(45%,45%);
+    
+}
+.Footer-content ul li{
+    list-style-type: none;
+    margin-bottom: 16px;
+    color: white;
+}
+.footer-line{
+    opacity: 0.2;
+    width: 1120px;
+    margin: 20px  auto 0px;
+}
+.Footer-end{
+    display: flex;
+    color: aliceblue;
+    width: 1120px;
+    margin: 24px auto;
+    justify-content: space-between;
+}
+.flag-content{
+    display: flex; 
+}
+.flag-content img{
+    width: 27px;
+    height: 17px;
+    border-radius: 3px;
+    margin-left: 8px; 
+}
+.Footer-end div p{
+    font-size: 14px;
+}
+.l5{
+    display: flex;
+    justify-content: space-between; 
+}
+.cir{
+    border-radius: 50%;
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 5px;
+    color: black;
+    margin-top: 2px;
+}
+.sp{
+    color: white;
+    margin-right: 4px;
+}
+.logo{
+    display: flex;
+}
+.logo h2{
+    margin-left: 8.55px;
+   padding-top: 7px;
+   color: white;
+}
